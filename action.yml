@@ -1,0 +1,6 @@
+name: "readme wiki builder"
+description: "Build README.me based on the file README_SOURCE.md"
+author: "Kislorod4ik"
+runs:
+  using: "node16"
+  main: "src/index.js"
